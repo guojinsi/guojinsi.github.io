@@ -23,7 +23,7 @@ Hi, my name is Guojin Si. I received my Ph.D. from the Department of Industrial 
 Currently, my research interests are centered on:
 - **Reliability Engineering and Intelligent O&M**: Developing intelligent maintenance scheduling and logistics/routing optimization (such as vessel and technician routing) to ensure system reliability and operational efficiency.
 - **Wind Farm Management and Control based on Environment Forecasting**: Utilizing time series and spatio-temporal forecasting to improve operational decision-making and control, specifically tailored for offshore wind farms operating in dynamic environments.
-- **Power System Management, Optimization, and Resilient O&M**: Designing optimization frameworks oriented towards the large-scale integration of renewable energy, ensuring that modern power systems remain robust, efficient, and resilient
+- **Power System Management, Optimization, and Resilient O&M**: Designing optimization frameworks oriented towards the large-scale integration of renewable energy, ensuring that modern power systems remain robust, efficient, and resilient.
 
 📢 Welcome to my website, and feel free to reach out if you are interested in my research or potential collaborations!
 
