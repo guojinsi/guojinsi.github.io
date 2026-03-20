@@ -76,7 +76,7 @@ Currently, my research interests are centered on:
 
 # 📖 Educations
 - *2017.09 - 2023.03*, Ph.D., Department of Industrial Engineering & Management, **Shanghai Jiao Tong University**.
-- *2013.09 - 2017.06*, B.Sc., School of Mechanical Engineering, **Sichuan University**. 
+- *2013.09 - 2017.06*, B.E., School of Mechanical Engineering, **Sichuan University**. 
 
 # 💻 Work Experiences
 - *2025.03 - 2026.01*, Visiting Scholar, Department of Systems Engineering, **City University of Hong Kong**. 
