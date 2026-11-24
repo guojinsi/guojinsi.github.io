@@ -6,6 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+# Site Settings
+url                      : "https://guojinsi.github.io"
+baseurl                  : ""
 title                    : "Guojin Si"
 description              : "No limits, only next levels."
 repository               : "RayeRen/acad-homepage.github.io"
